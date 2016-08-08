@@ -4,3 +4,5 @@
 - Region lock
 - ACK feature for streaming operations
 - Support for AR55 extra beams
+- Disable powersave mode if session > 1
+- Clear tagstorage if inventory interrupted by another command
