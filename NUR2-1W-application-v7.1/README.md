@@ -1,0 +1,12 @@
+2018/08/20		NUR2_APP_7.1_A
+- Added extended carrier command support
+- Added secondary chip programming support
+- Added south africa region
+- Added AR62 support
+- Added Taiwan region support
+- Added Reset to target command support
+- Added custom hop table command support
+- Added Monza QT commands
+- Added support for power save options (nurapi period setup)
+- Fixed Inventory ERROR_NO_TAG reported when last antenna did not see any tags, but previous one(s) did
+- Fixed RSSI might be reported 0 when doing inventory read command
