@@ -1,0 +1,13 @@
+{
+  "firmwares": 
+  [
+    {
+      "name": "NUR2-1W-bootloader-v2.0-A",
+      "version": "2.0-A",
+      "buildtime": "1518015120",
+      "url": "https://raw.githubusercontent.com/NordicID/nur_firmware/master/NUR2-1W-bootloader-v2.0/Nur2Bootloader_20A.bin",
+      "md5": "3e2bec1a5dd57dfaf2c44b722c59bcd6",
+      "hw": [ "NUR2-1W" ]
+    }
+  ]
+}
