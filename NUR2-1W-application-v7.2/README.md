@@ -5,7 +5,7 @@
 - Added secondary chip version number to DevCaps message
 - Fixed incorrect MODULE type in FWINFO cmd
 
-**NOTE: For secondary chip update, Nordic ID RFID Confidgurator v1.8.2 (or newer) is needed.**
+**NOTE: For secondary chip update, Nordic ID RFID Configurator v1.8.2 (or newer) is needed.**
 
 
 2018/08/20		NUR2_APP_7.1_A
