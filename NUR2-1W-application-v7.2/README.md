@@ -1,6 +1,6 @@
 2018/11/01      NUR2_APP_7.2_A
-- Added NXP UCODE8 tag Brand ID support
-- Added Custom Exchange command support
+- Added NXP UCODE8 tag Brand ID support (needs at least sec chip v3.0.0.3)
+- Added Custom Exchange command support (needs at least sec chip v3.0.0.3)
 - Added multiple command parameter validity checks
 - Added secondary chip version number to DevCaps message
 - Fixed incorrect MODULE type in FWINFO cmd
