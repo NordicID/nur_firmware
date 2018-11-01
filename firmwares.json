@@ -26,6 +26,14 @@
       "hw": [ "NUR-05WL2", "NUR-10W" ]
     },
     {
+      "name": "NUR2-1W-application-v7.2-A",
+      "version": "7.2-A",
+      "buildtime": "1541067300",
+      "url": "https://raw.githubusercontent.com/NordicID/nur_firmware/master/NUR2-1W-application-v7.2/Nur2Application_72A.bin",
+      "md5": "5100b753d675f63da2be6e93e141aad7",
+      "hw": [ "NUR2-1W" ]
+    },
+    {
       "name": "NUR2-1W-application-v7.1-A",
       "version": "7.1-A",
       "buildtime": "1534766400",
