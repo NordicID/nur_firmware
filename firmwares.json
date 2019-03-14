@@ -2,6 +2,14 @@
   "firmwares": 
   [
     {
+      "name": "NUR-L2-application-v5.15-A",
+      "version": "5.15-A",
+      "buildtime": "1552564800",
+      "url": "https://raw.githubusercontent.com/NordicID/nur_firmware/master/NUR-L2-application-v5.15/NUR-L2-application-v5.15-A.bin",
+      "md5": "a2f49814a1c01fcf7137d470b163b73f",
+      "hw": [ "NUR-05WL2", "NUR-10W" ]
+    },
+    {
       "name": "NUR-L2-application-v5.14-A",
       "version": "5.14-A",
       "buildtime": "1546516800",
