@@ -4,10 +4,10 @@
 - Indonesion region added
 - RSSI filter setting fixed
 
-2019/05/28	3.1.1.0
+2019/05/28	SecChip_3.1.1.0
 - Fixed LBT bug
 
-2019/05/27	3.1.0.0
+2019/05/27	SecChip_3.1.0.0
 - Fixed auto Q algorithm in case single inventory round took over region channel time
 
 2019/03/12 SecChip_3.0.0.5
