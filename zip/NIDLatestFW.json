@@ -2,9 +2,9 @@
 "files":
 [
 {
-"name": "System OS (v1.3.9)",
+"name": "System OS (v1.4.0)",
 "filename": "",
-"fwinfo": "<FWINFO>MODULE=SMART;TYPE=OS;VER=1.3.9</FWINFO> ",
+"fwinfo": "<FWINFO>MODULE=SMART;TYPE=OS;VER=1.4.0</FWINFO> ",
 "required_nidu_version": "3",
 "minversion": "",
 "force_update": "false",
