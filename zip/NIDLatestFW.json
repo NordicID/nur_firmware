@@ -2,6 +2,16 @@
 "files":
 [
 {
+"name": "System OS (v1.3.9)",
+"filename": "",
+"fwinfo": "<FWINFO>MODULE=SMART;TYPE=OS;VER=1.3.9</FWINFO> ",
+"required_nidu_version": "3",
+"minversion": "",
+"force_update": "false",
+"force_update_versions":[]
+}
+,
+{
 "name": "exa_bootloader_8",
 "filename": "exa_bootloader_8.zip",
 "fwinfo": "<FWINFO>MODULE=EXA51,EXA31;TYPE=LOADER;VER=8.0.0</FWINFO> ",
