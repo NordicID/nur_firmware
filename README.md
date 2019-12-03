@@ -1,3 +1,3 @@
-# NUR RFID module firmware
+# Nordic ID device firmware
 
-This repository contains stable releases of NUR module firmware
+This repository contains stable releases of Nordic ID device firmware
