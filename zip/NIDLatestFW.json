@@ -82,9 +82,9 @@
 }
 ,
 {
-"name": "Nur2Application_78A",
-"filename": "Nur2Application_78A.bin",
-"fwinfo": "<FWINFO>MODULE=NURv2,NUR2-1W;TYPE=APP;VER=7.8-A;DATE=Nov 11 2019 10:11:25</FWINFO>",
+"name": "Nur2Bootloader_20A",
+"filename": "Nur2Bootloader_20A.bin",
+"fwinfo": "<FWINFO>MODULE=NURv2,NUR2-1W;TYPE=LOADER;VER=2.0-A;DATE=Feb  7 2018 14:52:37</FWINFO>",
 "required_nidu_version": "2",
 "minversion": "",
 "force_update": "false",
@@ -92,9 +92,9 @@
 }
 ,
 {
-"name": "Nur2Bootloader_20A",
-"filename": "Nur2Bootloader_20A.bin",
-"fwinfo": "<FWINFO>MODULE=NURv2,NUR2-1W;TYPE=LOADER;VER=2.0-A;DATE=Feb  7 2018 14:52:37</FWINFO>",
+"name": "Nur2Application_78A",
+"filename": "Nur2Application_78A.bin",
+"fwinfo": "<FWINFO>MODULE=NURv2,NUR2-1W;TYPE=APP;VER=7.8-A;DATE=Nov 11 2019 10:11:25</FWINFO>",
 "required_nidu_version": "2",
 "minversion": "",
 "force_update": "false",
