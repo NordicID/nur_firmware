@@ -22,6 +22,16 @@
 }
 ,
 {
+"name": "exa_application_234-H",
+"filename": "exa_application_234-H.zip",
+"fwinfo": "<FWINFO>MODULE=EXA31,EXA51;TYPE=APP;VER=2.3.4</FWINFO>",
+"required_nidu_version": "2",
+"minversion": "",
+"force_update": "false",
+"force_update_versions":[]
+}
+,
+{
 "name": "NanoNur2Bootloader_21A",
 "filename": "NanoNur2Bootloader_21A.bin",
 "fwinfo": "<FWINFO>MODULE=NUR-0W1;TYPE=LOADER;VER=2.1-A;DATE=Jun 27 2019 10:02:44</FWINFO>",
@@ -45,6 +55,16 @@
 "name": "nurapplication-v3.7-C",
 "filename": "nurapplication-v3.7-C.bin",
 "fwinfo": "<FWINFO>MODULE=NUR-05W;TYPE=APP;VER=3.7-C;DATE=May 25 2015 10:19:30</FWINFO>",
+"required_nidu_version": "2",
+"minversion": "",
+"force_update": "false",
+"force_update_versions":[]
+}
+,
+{
+"name": "NUR-05WL2-loader-v1.5-A",
+"filename": "NUR-05WL2-loader-v1.5-A.bin",
+"fwinfo": "<FWINFO>MODULE=NUR-05WL2,NUR-10W;TYPE=LOADER;VER=1.5-A</FWINFO>",
 "required_nidu_version": "2",
 "minversion": "",
 "force_update": "false",
