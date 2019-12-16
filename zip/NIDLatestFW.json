@@ -12,9 +12,9 @@
 }
 ,
 {
-"name": "EXA21_application_366",
-"filename": "EXA21_application_366.zip",
-"fwinfo": "<FWINFO>MODULE=EXA21;TYPE=APP;VER=3.6.6</FWINFO>",
+"name": "EXA21_application_370",
+"filename": "EXA21_application_370.zip",
+"fwinfo": "<FWINFO>MODULE=EXA21;TYPE=APP;VER=3.7.0</FWINFO>",
 "required_nidu_version": "2",
 "minversion": "",
 "force_update": "false",
