@@ -92,9 +92,9 @@
 }
 ,
 {
-"name": "Nur2Application_79A",
-"filename": "Nur2Application_79A.bin",
-"fwinfo": "<FWINFO>MODULE=NURv2,NUR2-1W;TYPE=APP;VER=7.9-A;DATE=Jan 20 2020 10:40:11</FWINFO>",
+"name": "Nur2Application_710A",
+"filename": "Nur2Application_710A.bin",
+"fwinfo": "<FWINFO>MODULE=NURv2,NUR2-1W;TYPE=APP;VER=7.10-A;DATE=Mar 12 2020 16:38:39</FWINFO>",
 "required_nidu_version": "2",
 "minversion": "",
 "force_update": "false",
@@ -102,20 +102,10 @@
 }
 ,
 {
-"name": "NUR2-1W-SecChip_v3310",
-"filename": "NUR2-1W-SecChip_v3310.bin",
-"fwinfo": "<FWINFO>MODULE=NUR2-1W;TYPE=SEC_CHIP_APP;VER=3.3.1.0;DATE=Jan 20 2020 10:46:43</FWINFO>",
+"name": "NUR2-1W-SecChip_v3320",
+"filename": "NUR2-1W-SecChip_v3320.bin",
+"fwinfo": "<FWINFO>MODULE=NUR2-1W;TYPE=SEC_CHIP_APP;VER=3.3.2.0;DATE=Mar 11 2020 15:41:54</FWINFO>",
 "required_nidu_version": "2",
-"minversion": "",
-"force_update": "false",
-"force_update_versions":[]
-}
-,
-{
-"name": "System OS (v1.3.10)",
-"filename": "",
-"fwinfo": "<FWINFO>MODULE=SMART;TYPE=OS;VER=1.3.10</FWINFO>",
-"required_nidu_version": "3",
 "minversion": "",
 "force_update": "false",
 "force_update_versions":[]
