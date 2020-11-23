@@ -1,4 +1,13 @@
 ## EXA31/51 firmware version history
+##### VER 2.4.4	(23.11.2020)
+- Fix missing trig down event while reading barcode
+- Added vibration in HID mode for indicating successful read.
+- Fixed hang issue while operating in HID mode.
+- Added wathdog functionality
+
+#### Bootloader 16
+- Added wathdog functionality
+
 ##### VER 2.3.4	(3.10.2019)
 - SetBLEName ext command is now AccEnumSensor causing name corrupr
 - Ignored SetBLEName as it set automatically by device

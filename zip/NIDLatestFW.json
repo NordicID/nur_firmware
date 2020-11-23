@@ -22,9 +22,19 @@
 }
 ,
 {
-"name": "exa_application_234-H",
-"filename": "exa_application_234-H.zip",
-"fwinfo": "<FWINFO>MODULE=EXA31,EXA51;TYPE=APP;VER=2.3.4</FWINFO>",
+"name": "exa_application_244-H",
+"filename": "exa_application_244-H.zip",
+"fwinfo": "<FWINFO>MODULE=EXA31,EXA51;TYPE=APP;VER=2.4.4</FWINFO>",
+"required_nidu_version": "2",
+"minversion": "",
+"force_update": "false",
+"force_update_versions":[]
+}
+,
+{
+"name": "exa_bootloader_16",
+"filename": "exa_bootloader_16.zip",
+"fwinfo": "<FWINFO>MODULE=EXA31,EXA51;TYPE=LOADER;VER=16</FWINFO>",
 "required_nidu_version": "2",
 "minversion": "",
 "force_update": "false",
