@@ -102,9 +102,9 @@
 }
 ,
 {
-"name": "Nur2Application_710A",
-"filename": "Nur2Application_710A.bin",
-"fwinfo": "<FWINFO>MODULE=NURv2,NUR2-1W;TYPE=APP;VER=7.10-A;DATE=Mar 12 2020 16:38:39</FWINFO>",
+"name": "Nur2Application_711A",
+"filename": "Nur2Application_711A.bin",
+"fwinfo": "<FWINFO>MODULE=NURv2,NUR2-1W;TYPE=APP;VER=7.11-A;DATE=Dec 11 2020 10:39:10</FWINFO>",
 "required_nidu_version": "2",
 "minversion": "",
 "force_update": "false",
@@ -112,9 +112,9 @@
 }
 ,
 {
-"name": "NUR2-1W-SecChip_v3320",
-"filename": "NUR2-1W-SecChip_v3320.bin",
-"fwinfo": "<FWINFO>MODULE=NUR2-1W;TYPE=SEC_CHIP_APP;VER=3.3.2.0;DATE=Mar 11 2020 15:41:54</FWINFO>",
+"name": "NUR2-1W-SecChip_v3330",
+"filename": "NUR2-1W-SecChip_v3330.bin",
+"fwinfo": "<FWINFO>MODULE=NUR2-1W;TYPE=SEC_CHIP_APP;VER=3.3.3.0;DATE=Oct 21 2020 13:44:28</FWINFO>",
 "required_nidu_version": "2",
 "minversion": "",
 "force_update": "false",
