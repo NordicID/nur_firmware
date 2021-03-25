@@ -50,6 +50,14 @@
       "hw": [ "NUR-05WL2", "NUR-10W" ]
     },
     {
+      "name": "NUR2-1W-application-v7.11-A",
+      "version": "7.11-A",
+      "buildtime": "1608076800",
+      "url": "https://raw.githubusercontent.com/NordicID/nur_firmware/master/NUR2-1W-application-v7.11/Nur2Application_711A.bin",
+      "md5": "83ebc0d3938eb70e0b296f8223165aa7",
+      "hw": [ "NUR2-1W" ]
+    },
+    {
       "name": "NUR2-1W-application-v7.10-A",
       "version": "7.10-A",
       "buildtime": "1585051200",
@@ -113,12 +121,20 @@
       "md5": "017ebadeb711e48a390ca4e41c6c8b7a",
       "hw": [ "NUR2-1W" ]
     },
-	{
+    {
       "name": "NUR-0W1-application-v10.3-A",
       "version": "10.3-A",
       "buildtime": "1616500800",
       "url": "https://raw.githubusercontent.com/NordicID/nur_firmware/master/NUR-0W1-application-v10.3/NanoNur2Application_103A.bin",
       "md5": "d494f36b2efb1732661a1ce49ffe461f",
+      "hw": [ "NUR-0W1" ]
+    },
+    {
+      "name": "NUR-0W1-application-v10.2-A",
+      "version": "10.2-A",
+      "buildtime": "1561593600",
+      "url": "https://raw.githubusercontent.com/NordicID/nur_firmware/master/NUR-0W1-application-v10.2/NanoNur2Application_102A.bin",
+      "md5": "d5c6c48d4c040c2c136fd48a0f15b338c",
       "hw": [ "NUR-0W1" ]
     }
   ]
