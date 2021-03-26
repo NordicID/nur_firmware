@@ -3,7 +3,7 @@
 -	Custom Exchange suppot added
 -	NXP Brand ID support added
 -	Gen2v2 commands Authenticate and Untraceable added
--	LBT support added (requires HW version supporting LBT)
+-	LBT support added
 - SPI speed improvements
 
 27-Jun-2019 10.2-A
