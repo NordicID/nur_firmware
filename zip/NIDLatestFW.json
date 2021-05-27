@@ -2,9 +2,9 @@
 "files":
 [
 {
-"name": "EXA21_bootloader_8",
-"filename": "EXA21_bootloader_8.zip",
-"fwinfo": "<FWINFO>MODULE=EXA21;TYPE=LOADER;VER=8.0.0</FWINFO>",
+"name": "EXA21_bootloader_11",
+"filename": "EXA21_bootloader_11.zip",
+"fwinfo": "<FWINFO>MODULE=EXA21;TYPE=LOADER;VER=11.0.0</FWINFO>",
 "required_nidu_version": "2",
 "minversion": "",
 "force_update": "false",
@@ -12,9 +12,9 @@
 }
 ,
 {
-"name": "EXA21_application_371",
-"filename": "EXA21_application_371.zip",
-"fwinfo": "<FWINFO>MODULE=EXA21;TYPE=APP;VER=3.7.1</FWINFO>",
+"name": "EXA21_application_411",
+"filename": "EXA21_application_411.zip",
+"fwinfo": "<FWINFO>MODULE=EXA21;TYPE=APP;VER=4.1.1</FWINFO>",
 "required_nidu_version": "2",
 "minversion": "",
 "force_update": "false",
