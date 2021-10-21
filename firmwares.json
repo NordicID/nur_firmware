@@ -122,6 +122,14 @@
       "hw": [ "NUR2-1W" ]
     },
     {
+      "name": "NUR-0W1-application-v10.4-A",
+      "version": "10.4-A",
+      "buildtime": "1634817600",
+      "url": "https://raw.githubusercontent.com/NordicID/nur_firmware/master/NUR-0W1-application-v10.4/NanoNur2Application_104A_2110191032.bin",
+      "md5": "f7e2ec240f13f8c63bf8c4cf9e50e818",
+      "hw": [ "NUR-0W1" ]
+    },
+    {
       "name": "NUR-0W1-application-v10.3-A",
       "version": "10.3-A",
       "buildtime": "1616500800",
