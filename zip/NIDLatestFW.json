@@ -52,9 +52,9 @@
 }
 ,
 {
-"name": "NanoNur2Application_103A",
-"filename": "NanoNur2Application_103A.bin",
-"fwinfo": "<FWINFO>MODULE=NUR-0W1;TYPE=APP;VER=10.3-A;DATE=Mar 18 2021 14:38:31</FWINFO>",
+"name": "NanoNur2Application_104A_2110191032",
+"filename": "NanoNur2Application_104A_2110191032.bin",
+"fwinfo": "<FWINFO>MODULE=NUR-0W1;TYPE=APP;VER=10.4-A;DATE=Oct 19 2021 10:32:11</FWINFO>",
 "required_nidu_version": "2",
 "minversion": "",
 "force_update": "false",
