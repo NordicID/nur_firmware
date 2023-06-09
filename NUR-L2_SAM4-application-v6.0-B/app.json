@@ -1,0 +1,14 @@
+{
+"files":
+[
+{
+"name": "NUR-L2-SAM4-application-v6.0-B",
+"filename": "NUR-L2-SAM4-application-v6.0-B.bin",
+"fwinfo": "<FWINFO>MODULE=NUR-05WL2,NUR-10W;TYPE=APP;VER=6.0-B;DATE=Dec 28 2022 19:24:36</FWINFO>",
+"required_nidu_version": "2",
+"minversion": "6.0.0.0",
+"force_update": "false",
+"force_update_versions":[]
+}
+]
+}
