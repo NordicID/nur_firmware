@@ -120,5 +120,25 @@
 "force_update": "false",
 "force_update_versions":[]
 }
+,
+{
+"name": "NUR-L2-SAM4-loader-v2.0-A",
+"filename": "NUR-L2-SAM4-loader-v2.0-A.bin",
+"fwinfo": "<FWINFO>MODULE=NUR-05WL2,NUR-10W;TYPE=LOADER;VER=2.0-A;DATE=Nov 21 2022 14:47:33</FWINFO>",
+"required_nidu_version": "2",
+"minversion": "2.0.0.0",
+"force_update": "false",
+"force_update_versions":[]
+}
+,
+{
+"name": "NUR-L2-SAM4-application-v6.0-B",
+"filename": "NUR-L2-SAM4-application-v6.0-B.bin",
+"fwinfo": "<FWINFO>MODULE=NUR-05WL2,NUR-10W;TYPE=APP;VER=6.0-B;DATE=Dec 28 2022 19:24:36</FWINFO>",
+"required_nidu_version": "2",
+"minversion": "6.0.0.0",
+"force_update": "false",
+"force_update_versions":[]
+}
 ]
 }
