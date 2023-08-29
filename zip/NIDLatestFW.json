@@ -102,9 +102,9 @@
 }
 ,
 {
-"name": "Nur2Application_711A",
-"filename": "Nur2Application_711A.bin",
-"fwinfo": "<FWINFO>MODULE=NURv2,NUR2-1W;TYPE=APP;VER=7.11-A;DATE=Dec 11 2020 10:39:10</FWINFO>",
+"name": "Nur2Application_711D_2308291330",
+"filename": "Nur2Application_711D_2308291330.bin",
+"fwinfo": "<FWINFO>MODULE=NURv2,NUR2-1W;TYPE=APP;VER=7.11-D;DATE=Aug 29 2023 13:30:17</FWINFO>",
 "required_nidu_version": "2",
 "minversion": "",
 "force_update": "false",
