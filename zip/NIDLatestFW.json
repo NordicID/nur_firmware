@@ -2,6 +2,26 @@
 "files":
 [
 {
+"name": "EXA81_APPLICATION_1.0.0.0-rel",
+"filename": "EXA81_APPLICATION_1.0.0.0-rel.zip",
+"fwinfo": "<FWINFO>MODULE=EXA81;TYPE=APP;VER=1.0.0.0;DATE=Jan 18 2024 11.49.34</FWINFO>",
+"required_nidu_version": "3",
+"minversion": "",
+"force_update": "false",
+"force_update_versions":[]
+}
+,
+{
+"name": "EXA81_BOOTLOADER_3.0.0",
+"filename": "EXA81_BOOTLOADER_3.0.0.zip",
+"fwinfo": "<FWINFO>MODULE=EXA81;TYPE=LOADER;VER=3.0.0.0;DATE=Jan 18 2024 11.50.12</FWINFO>",
+"required_nidu_version": "3",
+"minversion": "",
+"force_update": "false",
+"force_update_versions":[]
+}
+,
+{
 "name": "EXA21_bootloader_11",
 "filename": "EXA21_bootloader_11.zip",
 "fwinfo": "<FWINFO>MODULE=EXA21;TYPE=LOADER;VER=11.0.0</FWINFO>",
@@ -137,6 +157,26 @@
 "fwinfo": "<FWINFO>MODULE=NUR-05WL2,NUR-10W;TYPE=APP;VER=6.0-B;DATE=Dec 28 2022 19:24:36</FWINFO>",
 "required_nidu_version": "2",
 "minversion": "6.0.0.0",
+"force_update": "false",
+"force_update_versions":[]
+}
+,
+{
+"name": "NURV3-1W_APP_v15.4-A",
+"filename": "NURV3-1W_APP_v15.4-A.bin",
+"fwinfo": "<FWINFO>MODULE=NURV3-1W;TYPE=APP;VER=15.4-A;DATE=Nov 23 2023 00:15:44</FWINFO>",
+"required_nidu_version": "3",
+"minversion": "",
+"force_update": "false",
+"force_update_versions":[]
+}
+,
+{
+"name": "NURV3-1W_LOADER_v2.1-C",
+"filename": "NURV3-1W_LOADER_v2.1-C.bin",
+"fwinfo": "<FWINFO>MODULE=NURV3-1W;TYPE=LOADER;VER=2.1-C;DATE=Dec 15 2021 14:32:27</FWINFO>",
+"required_nidu_version": "3",
+"minversion": "",
 "force_update": "false",
 "force_update_versions":[]
 }
