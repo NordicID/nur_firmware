@@ -112,19 +112,9 @@
 }
 ,
 {
-"name": "Nur2Bootloader_20A",
-"filename": "Nur2Bootloader_20A.bin",
-"fwinfo": "<FWINFO>MODULE=NURv2,NUR2-1W;TYPE=LOADER;VER=2.0-A;DATE=Feb  7 2018 14:52:37</FWINFO>",
-"required_nidu_version": "2",
-"minversion": "",
-"force_update": "false",
-"force_update_versions":[]
-}
-,
-{
-"name": "Nur2Application_711A",
-"filename": "Nur2Application_711A.bin",
-"fwinfo": "<FWINFO>MODULE=NURv2,NUR2-1W;TYPE=APP;VER=7.11-A;DATE=Dec 11 2020 10:39:10</FWINFO>",
+"name": "NUR2-1W_LOADER_v2.1-A",
+"filename": "NUR2-1W_LOADER_v2.1-A.bin",
+"fwinfo": "<FWINFO>MODULE=NURv2,NUR2-1W;TYPE=LOADER;VER=2.1-A;DATE=Oct 27 2021 15:08:53</FWINFO>",
 "required_nidu_version": "2",
 "minversion": "",
 "force_update": "false",
@@ -135,6 +125,16 @@
 "name": "NUR2-1W-SecChip_v3330",
 "filename": "NUR2-1W-SecChip_v3330.bin",
 "fwinfo": "<FWINFO>MODULE=NUR2-1W;TYPE=SEC_CHIP_APP;VER=3.3.3.0;DATE=Oct 21 2020 13:44:28</FWINFO>",
+"required_nidu_version": "2",
+"minversion": "",
+"force_update": "false",
+"force_update_versions":[]
+}
+,
+{
+"name": "NUR2-1W_APP_v7.12-B",
+"filename": "NUR2-1W_APP_v7.12-B.bin",
+"fwinfo": "<FWINFO>MODULE=NURv2,NUR2-1W;TYPE=APP;VER=7.12-B;DATE=Mar  8 2024 14:49:55</FWINFO>",
 "required_nidu_version": "2",
 "minversion": "",
 "force_update": "false",
@@ -162,9 +162,9 @@
 }
 ,
 {
-"name": "NURV3-1W_APP_v15.4-A",
-"filename": "NURV3-1W_APP_v15.4-A.bin",
-"fwinfo": "<FWINFO>MODULE=NURV3-1W;TYPE=APP;VER=15.4-A;DATE=Nov 23 2023 00:15:44</FWINFO>",
+"name": "NURV3-1W_LOADER_v2.1-C",
+"filename": "NURV3-1W_LOADER_v2.1-C.bin",
+"fwinfo": "<FWINFO>MODULE=NURV3-1W;TYPE=LOADER;VER=2.1-C;DATE=Dec 15 2021 14:32:27</FWINFO>",
 "required_nidu_version": "3",
 "minversion": "",
 "force_update": "false",
@@ -172,9 +172,9 @@
 }
 ,
 {
-"name": "NURV3-1W_LOADER_v2.1-C",
-"filename": "NURV3-1W_LOADER_v2.1-C.bin",
-"fwinfo": "<FWINFO>MODULE=NURV3-1W;TYPE=LOADER;VER=2.1-C;DATE=Dec 15 2021 14:32:27</FWINFO>",
+"name": "NURV3-1W_APP_v15.4-E",
+"filename": "NURV3-1W_APP_v15.4-E.bin",
+"fwinfo": "<FWINFO>MODULE=NURV3-1W;TYPE=APP;VER=15.4-E;DATE=Mar  8 2024 14:50:09</FWINFO>",
 "required_nidu_version": "3",
 "minversion": "",
 "force_update": "false",
