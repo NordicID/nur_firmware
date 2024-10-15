@@ -2,9 +2,9 @@
 "files":
 [
 {
-"name": "EXA81_APPLICATION_1.2.2.0-rel",
-"filename": "EXA81_APPLICATION_1.2.2.0-rel.zip",
-"fwinfo": "<FWINFO>MODULE=EXA81;TYPE=APP;VER=1.2.2.0;DATE=May 15 2024 10.27.33</FWINFO>",
+"name": "EXA81_APPLICATION_1.2.3.0-rel",
+"filename": "EXA81_APPLICATION_1.2.3.0-rel.zip",
+"fwinfo": "<FWINFO>MODULE=EXA81;TYPE=APP;VER=1.2.3.0;DATE=Aug 30 2024 13.12.31</FWINFO>",
 "required_nidu_version": "3",
 "minversion": "",
 "force_update": "false",
