@@ -1,0 +1,50 @@
+MOD_NUR3_v15.7-A
+- Added: NUR-113 : Adding new region CHILE [913-919]
+- Fixed: NUR-103 : Stix Power Saving Flag / Adding Board Specific default configs
+- Fixed: NUR-101 : Correct fixed Q info into inventory stream event
+
+MOD_NUR3_v15.6-D
+- Fixed: NUR-100 : IO-pin configurations not working in all scenarios after S1 config is applied
+
+MOD_NUR3_v15.6-C
+- Fixed: Fix Sampo S1 AUX port Configuration.
+
+MOD_NUR3_v15.6-B
+- Fixed: Fix Frequency for ISRAEL 916.25 Mhz -> 916.3 Mhz.
+
+MOD_NUR3_v15.6-A
+- Added Sampo S1 Support.
+
+MOD_NUR3_v15.5-E
+- Added STIX Support.
+
+MOD_NUR3_v15.5-D
+- Improve over temperature condition management
+- Improve cpu power management
+- Fix uart baud rates over 1M
+
+MOD_NUR3_v15.5-C
+- Add support for NUR3-0W1
+- Add support for NUR3-0W5
+
+MOD_NUR3_v15.4-E
+- Add israel_2 region for 1% duty cycle requirement
+- Improve RX threshold detection
+- Improve test modes
+- Add new RF profiles: HIGHSPEED_2 and FAST
+
+MOD_NUR3_v15.4-C
+- Fix whole bank tag read
+- Israel region fixes
+
+MOD_NUR3_v15.4-A
+- TX overshoot fixed
+- In case of XPC bits, correct EPC is reported
+- Fixed: If more than 1 select mask for EPC was used, no tags found ever
+
+
+MOD_NUR3_v15.3-O
+- Fixed: Possible fixation into one channel in case of “bad antenna” fired
+- Fixed: After “bad antenna” has fired, the following RF operation always failed
+- Threshold which leads to “bad antenna” was lowered (too much RF on RX port scenario)
+
