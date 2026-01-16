@@ -1,0 +1,15 @@
+v6.1-C
+  - vietnam base frequency changed to 918750 with 9 channels.
+
+v6.1-B
+  - Indoneasia Frequency Changed as per regulation.
+
+v6.1-A
+  - Vietnam Frequency Changed as per regulation.
+
+v6.0-B
+  - Fix RSSI calc
+  - Fix compiler warnings
+
+v6.0-A
+  - Import nur1 fw sam4s4 port sources
