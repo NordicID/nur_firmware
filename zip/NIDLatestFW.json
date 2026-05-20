@@ -182,9 +182,9 @@
 }
 ,
 {
-"name": "MOD_NUR3_APP_v17.1-E",
-"filename": "MOD_NUR3_APP_v17.1-E.bin",
-"fwinfo": "<FWINFO>MODULE=NURV3-1W,NUR3-0W5,NUR3-0W1;TYPE=APP;VER=17.1-E;DATE=Mar 17 2026 10:32:45</FWINFO>",
+"name": "MOD_NUR3_APP_v17.1-F",
+"filename": "MOD_NUR3_APP_v17.1-F.bin",
+"fwinfo": "<FWINFO>MODULE=NURV3-1W,NUR3-0W5,NUR3-0W1;TYPE=APP;VER=17.1-F;DATE=May 11 2026 05:59:21</FWINFO>",
 "required_nidu_version": "3",
 "minversion": "",
 "force_update": "false",
